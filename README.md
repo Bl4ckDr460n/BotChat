@@ -1,6 +1,6 @@
 Cara Install
 
-- pkg updat
+- pkg update
 - pkg upgrade
 - pkg install python2 git
 - git clone https://github.com/Bl4ckDr460n/BotChat.git
